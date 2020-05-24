@@ -1,4 +1,4 @@
-module github.com/tducasse/go-instabot
+module github.com/pierreblanchet/go-instabot
 
 go 1.13
 
